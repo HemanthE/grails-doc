@@ -78,7 +78,7 @@ Along with the artefacts themselves, the profile will also produce a skeleton un
 The https://github.com/craigburke/bower-installer-gradle[Gradle Bower Plugin] is used to manage dependencies with bower. Visit the plugin documentation to learn how to use the plugin.
 
 
-==== Unit Testing
+==== Unit Testing//
 
 
 The https://github.com/craigburke/karma-gradle[Gradle Karma Plugin] is used to execute client side unit tests. All generated tests are written with Jasmine. Visit the plugin documentation to learn how to use the plugin.
